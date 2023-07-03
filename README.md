@@ -15,20 +15,6 @@
 
        The study will pursue creating a system that could help both the couple and the wedding supplier.  It has features that the couples can explores at the same and can be help them in planning the wedding. The study will begin with an overview of wedding and about the wedding planners.
  
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 ## Siginificance of the Study
 ##### The success of the project is considered to be advantageous for the following individuals or groups:
 ##### Couples. As a result of the research, they will be satisfied withn their works and sacrifices for the preparation of the wedding. This will give them a good experience of the services of Dani's Catering and Events. The couple will have a good relationship with their wedding organizer and suppliers of the things that they use for their wedding.
