@@ -7,7 +7,10 @@
 
 
 
-
+## SDG
+ The SDG's that the project is aims to attain the Decent Work and Economic Growth and the SDG will further explain:
+ ### Goal 8: Decent Work and Economic Growth
+ https://sdg.neda.gov.ph/goal-8/
 
 
  ## Purpose and Description 
