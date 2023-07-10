@@ -14,10 +14,4 @@
  https://sdg.neda.gov.ph/goal-8/ <br>
 
 
- ## Purpose and Description 
- <p align="justify">Customers can access and have knowledge on the packages and services that the company can offer via system without having a hassle in going to the physical office of the company. It also can save time, as both company and customer has a seamless connection on transacting with each other. If the staff and customer don't have same availability of time.  </p>
-<p align="justify">There's a lot of considerations that the couples/client need to consider in choosing a wedding supplier. The location of the couples to the wedding supplier is another factor that can affect the cost and services that the couples can avail. The availability of the certain services and packages that's being offered on the couples/clients desired date and time. <br>
-The study will pursue creating a system that could help both the couple and the wedding supplier.  It has features that the couples can explores at the same and can be help them in planning the wedding. The study will begin with an overview of wedding and about the wedding planners.
-</p>
  
-a guide for their future research on the project.</p>
